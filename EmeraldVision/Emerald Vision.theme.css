@@ -1,0 +1,85 @@
+/**
+ * @name EmeraldVision
+ * @author  EmeraldVision Team
+ * @version 1.0.0
+ * @description Green theme for better discord, made proudly by the EmeraldVision Team.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.gitlab.io
+ * @invite dHaSxn3
+*/
+
+@import url('https://clearvision.gitlab.io/v6/main.css');
+
+:root {
+  --main-color: #8BC34A;
+  --hover-color: #086DE1;
+  --success-color: #43b581;
+  --danger-color: #FFFB00;
+  --url-color: #15FE04;
+  --background-image: url('https://i.ibb.co/SQrXQ1x/photo-1528819027803-5473f2bf7633-1.jpg');
+  --background-shading: 100%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 100%;
+  --background-contrast: 100%;
+  --background-saturation: 100%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: transparent;
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 3px;
+  --user-modal-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 100%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 3px;
+  --home-icon: url('https://i.ibb.co/6mW6kdb/star-602148-1280.png');
+  --home-position: center;
+  --home-size: 40px;
+  --channel-unread: #3F51B5;
+  --channel-color: rgb(139,195,74,1);
+  --channel-color: rgb(139,195,74,1);
+  --online-color: #89FF00;
+  --idle-color: #4CAF50;
+  --dnd-color: #1E7422;
+  --streaming-color: #4AAE4E;
+  --offline-color: #115E45;
+  --main-font: Whitney;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+}
